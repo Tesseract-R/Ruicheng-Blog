@@ -1,4 +1,4 @@
-### <font size=3pt face="MV Boli" color="gray">Source from&nbsp;[aopstudio](aopstudio.github.io)</font>
+### <font size=3pt face="MV Boli" color="gray">Source from&nbsp;[aopstudio](/www.aopstudio.github.io)</font>
 
 ## Introduction 1
 ### 什么是操作系统

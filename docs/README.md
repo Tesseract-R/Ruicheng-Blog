@@ -24,7 +24,7 @@
 <a href="/Network/" target="_blank"><img src="" width="300px"></img></a>
 </div>
 
-### 2. [操作系统](/OperatingSystems)
+### 2. [操作系统](/OperatingSystem/)
 
 <div>
 <a href="" target="_blank"><img src="" width="300px"></img></a>
@@ -36,7 +36,7 @@
 <a href="" target="_blank"><img src="" width="300px"></img></a>
 </div>
 
-### 4. [设计模式](/DesignPattern/)
+### 4. [设计模式](/DesignPatterns/)
 
 <div>
 <a href="" target="_blank"><img src="" width="300px"></img></a>

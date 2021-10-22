@@ -28,7 +28,8 @@
 	  loadSidebar: 'sidebar.md',
 	  autoHeader: true,
 	  loadNavbar: 'navbar.md',
-	  subMaxLevel: 1,
+	  maxLevel: 2,
+	  subMaxLevel: 2,
 	  coverpage: 'coverpage.md',
 	  onlyCover: 'coverpage.md',
 	  auto2top: false,
@@ -114,6 +115,11 @@
         }
       ],
 	  
+	  pagination: {
+      previousText: '上一章',
+      nextText: '下一章',
+      },
+	  
 	  
     }
 		
@@ -135,6 +141,7 @@
   
   <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
   <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script>
     const gitalk = new Gitalk({
       id: location.pathname,
