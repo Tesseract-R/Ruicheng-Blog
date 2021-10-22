@@ -1,7 +1,9 @@
 <!-- My Motto -->
 <!-- 这玩意是放首页上方横向的导航栏 -->
 
-<small>Powered by docsify</small>
+**Ships are safe in the harbour, but that ain’t what ships are made for.**
+
+<!--  Powered by docsify/small -->
 
 <br>
 

@@ -102,7 +102,7 @@
       plugins: [
         function(hook, vm) {
           hook.beforeEach(function (html) {
-            var url = 'https://github.com/Tesseract-R/Ruicheng-Blog/blob/main/' + vm.route.file
+            var url = 'https://github.com/Tesseract-R/Ruicheng-blog/blob/main/docs' + vm.route.file
             var editHtml = '[📝 EDIT DOCUMENT](' + url + ')\n'
 
             return editHtml
@@ -140,7 +140,7 @@
       id: location.pathname,
       clientID: 'a8f6f37cfea553c483d0',
       clientSecret: '0290717e136265b2281980791fa01977ee6e12e1',
-      repo: 'Blog',
+      repo: 'comments-from-site',
       owner: 'Tesseract-R',
       admin: ['Tesseract-R'],
       // facebook-like distraction free mode

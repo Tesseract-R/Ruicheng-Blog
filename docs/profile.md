@@ -15,5 +15,5 @@
 
 :link: [Github](https://github.com/Tesseract-R)
 
-:link: [Leetcode]()
+:link: [Leetcode](https://leetcode-cn.com/u/tesseract-r/)
 

@@ -1,4 +1,5 @@
-# 操作系统复习
+### <font size=3pt face="MV Boli" color="gray">Source from&nbsp;[aopstudio](aopstudio.github.io)</font>
+
 ## Introduction 1
 ### 什么是操作系统
 * 在用户和计算机硬件之间的中介

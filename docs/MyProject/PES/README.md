@@ -1,9 +1,10 @@
-# 针对学生的个性化评价系统
-
-## Personalize Evaluation System
-
 <div STYLE="page-break-after: always;"></div>
 
+[SRS](SRS.pdf)
+
+[Design](design.md)
+
+### <font size=3pt face="MV Boli" color="gray">By Ruicheng Zhang</font>
 
 # 第一篇 项目可行性研究
 
