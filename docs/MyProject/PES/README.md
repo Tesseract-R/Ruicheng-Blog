@@ -1,6 +1,6 @@
 <div STYLE="page-break-after: always;"></div>
 
-[SRS](SRS.pdf)
+[SRS](SRS.md)
 
 [Design](design.md)
 

@@ -4,7 +4,7 @@
 
 <hr>
 
-# <font size="3">1. [单例模式](Singleton.md)
+# 1. [单例模式](Singleton.md)
 
 # 2.  [简单工厂模式]()
 
