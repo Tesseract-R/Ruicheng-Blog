@@ -1,18 +1,25 @@
 * 语言类
 
   * [Java](/Java/)
-  * 
+  * [c++](/cpp/)
 
 * 计算机基础
 
   * [计算机网络](/Network/)
   * [操作系统](/OperatingSystem/)
+    * [笔记](/OperatingSystem/Progress&Thread.md)
+    * [IO](/OperatingSystem/IO.md)
+    * [内存管理](/OperatingSystem/memory.md)
+    * [参考资料](/OperatingSystem/refer.md)
   * [数据库](/Database/)
   * [设计模式](/DesignPatterns/)
+  * [架构](/Architecture/)
 
 * 实习/工作笔记
 
-	* [杜比 - 实习](/Intern_Dolby/ "测试开发实习生 - 实习笔记")
+  * [测试开发岗](/Intern/ "测试开发实习生 - 实习笔记")
+    * [敏捷开发](/Intern/scrum.md)
+    * [测试流程](/Intern/test.md)
 
 * 项目设计	
 
