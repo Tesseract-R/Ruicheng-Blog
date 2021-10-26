@@ -30,7 +30,7 @@ final修饰的好处：
 
 
 
-
+!> 字符串常量池的位置：1.6之前在方法区，1.7之后在堆内存
 
 正则表达式使用的引擎：NFA（Non deterministic Finite Automation，确定型有穷自动机）
 问题：进行字符串匹配时会发生回溯
