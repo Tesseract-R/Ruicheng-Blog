@@ -2059,7 +2059,6 @@ Web框架：Django 3.1.3
 <img src="https://uploader.shimo.im/f/WYcEqYV1jLsfPVC1.png!thumbnail?fileGuid=25q5MrRE0ZT9mDqD" alt="图片" style="zoom:67%;" />
 
 
-
 ## 7.测试结果
 
 项目测试效果较好，没有明显的bug。模块基本实现了所有需求设计，绝大多数同学的预测成绩与实际成绩的误差在5分之内，能够根据同学的表现生成较为详细的评价，功能相对比较成熟，界面设计合理，UI布局美观，性能稳定，功能丰富实用，可以投入使用。

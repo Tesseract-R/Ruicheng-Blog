@@ -7,10 +7,7 @@
 
   * [计算机网络](/Network/)
   * [操作系统](/OperatingSystem/)
-    * [笔记](/OperatingSystem/Progress&Thread.md)
-    * [IO](/OperatingSystem/IO.md)
-    * [内存管理](/OperatingSystem/memory.md)
-    * [参考资料](/OperatingSystem/refer.md)
+  * [编译原理](/Compile/)
   * [数据库](/Database/)
   * [设计模式](/DesignPatterns/)
   * [架构](/Architecture/)
@@ -30,3 +27,5 @@
 * 关于
 	* [我的简历](/profile.md)
 	* [此站信息](/info.md)
+	* [待办](/todo.md)
+
