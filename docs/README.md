@@ -1,11 +1,11 @@
 ## Hi,
-## 这里是我的博客 :smile_cat:
+## 这里是我的学习笔记平台:smile_cat:
 
 <p>
 <button-counter></button-counter>
 </p>
+部分知识点总结来源：CSDN、微信公众号、B站学习资料
 
-<hr></hr>
 
 
 ## 语言类
@@ -17,7 +17,7 @@
 </div>
 
 
-## 课程笔记
+## 笔记
 ### 1. [计算机网络](/Network/)
 
 <div>
@@ -30,17 +30,43 @@
 <a href="" target="_blank"><img src="" width="300px"></img></a>
 </div>
 
-### 3. [数据库](/Database/)
+### 3. [编译原理](/Middleware/)
 
 <div>
 <a href="" target="_blank"><img src="" width="300px"></img></a>
 </div>
 
-### 4. [设计模式](/DesignPatterns/)
+### 4. [数据库](/Database/)
 
 <div>
 <a href="" target="_blank"><img src="" width="300px"></img></a>
 </div>
+
+### 5. [设计模式](/DesignPatterns/)
+
+<div>
+<a href="" target="_blank"><img src="" width="300px"></img></a>
+</div>
+
+### 6. [中间件](/Middleware/)
+
+<div>
+<a href="" target="_blank"><img src="" width="300px"></img></a>
+</div>
+
+### 7. [架构](/Architecture/)
+
+<div>
+<a href="" target="_blank"><img src="" width="300px"></img></a>
+</div>
+
+### 8. [实习](/Intern/)
+
+<div>
+<a href="" target="_blank"><img src="" width="300px"></img></a>
+</div>
+
+
 
 ## 项目文档
 
@@ -58,3 +84,39 @@
 <div>
 <a href="" target="_blank"><img src="" width="300px"></img></a>
 </div>
+
+
+
+
+<hr>
+
+**参考资料**：
+
+-   微信公众号
+
+    @爱笑的架构师
+
+    @程序员架构
+
+    @程序员追风
+
+    @码哥字节
+
+    @苏三说技术
+
+    @why技术
+
+    @猿侠客
+
+    @月伴飞鱼
+
+-   B站
+
+    @极客时间
+
+    @马士兵教育
+
+    @IT楠老师
+
+    @LeetCode力扣
+
