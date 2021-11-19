@@ -2,6 +2,19 @@
 
 
 
+
+
+基础框架&插件：
+
+-   Websocket：多端即时通讯
+-   Shiro：用户登录和权限校验
+-   Mybatis：数据持久化
+-   ActiveMq：消息队列
+
+
+
+
+
 # 注解：
 
 -   @Autowired
