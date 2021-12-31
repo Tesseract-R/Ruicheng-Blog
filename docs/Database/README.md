@@ -2,8 +2,9 @@
 
 ## [MySQL](MySQL.md)
 
-## [Redis](Redis.md)
+## [Redis](/Middleware/Redis.md)
 
 ## OceanBase
 
 ## MongoDB
+

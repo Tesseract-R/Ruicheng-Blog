@@ -1,6 +1,5 @@
-# **嗒哒**
 
-____        _      _                        ____  _
+
 ```
  _____       _      _                      
 |  __ \     (_)    | |                     
@@ -20,10 +19,15 @@ ____        _      _                        ____  _
 
 
 
+<hr>
+
 
 
 ### Richard Zhang的学习笔记平台 <small>1.0</small>
 
-[进入](README.md)
+<small>Powered by docsify</small>
+
+[进入](README.md)[More](/More/)
 
 ![](media/night.jpg)
+
