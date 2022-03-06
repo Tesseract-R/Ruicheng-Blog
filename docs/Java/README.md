@@ -2,32 +2,26 @@
 
 <hr>
 
-# [Java基础](basic.md)
+## [Java基础](basic.md)
 
+## [JVM](jvm.md)
 
-# [JVM](jvm.md)
+## [容器](collection.md)
 
+## [多线程](thread.md)
 
-# [容器](collection.md)
+## [数据结构与算法](algorithm.md)
 
-
-# [多线程](thread.md)
-
-# [数据结构与算法](algorithm.md)
-
-# [Java EE]()
+## [Java EE]()
 
 ## JMS
 
-## Spring
+### Spring
 
 -   [Spring](Spring.md)
 -   [SpringBoot](springboot.md)
 -   [SpringCloud]()
 -   
-
-
-
 
 
 **JPA:**
@@ -42,9 +36,6 @@ Java Persistence API: 数据持久化，对象/关系映射
 -   一对多：@OneToMany
 -   多对一：@ManyToOne
 -   多对多：@ManyToMany
-
-
-
 
 
 Spring Data JPA 常用接口
